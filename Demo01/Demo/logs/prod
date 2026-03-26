@@ -1,7 +1,0 @@
-2026-03-25T14:04:29.578+05:30  INFO 28548 --- [Ai] [main] com.springboot.DemoApplication           : Starting DemoApplication using Java 24.0.1 with PID 28548 (C:\Users\msult\OneDrive\Documents\SpringTemplate-master\Demo (1)\Demo\target\classes started by msult in C:\Users\msult\OneDrive\Documents\SpringTemplate-master\Demo (1)\Demo)
-2026-03-25T14:04:29.584+05:30  INFO 28548 --- [Ai] [main] com.springboot.DemoApplication           : The following 1 profile is active: "prod"
-2026-03-25T14:04:30.233+05:30  INFO 28548 --- [Ai] [main] com.springboot.DemoApplication           : Started DemoApplication in 1.253 seconds (process running for 1.742)
-2026-03-25T14:04:30.236+05:30  INFO 28548 --- [Ai] [main] com.springboot.DemoApplication           : My program is Started......
-2026-03-25T14:04:30.240+05:30  INFO 28548 --- [Ai] [main] com.springboot.DemoApplication           : Enter Student Regno
-2026-03-25T14:04:36.335+05:30  INFO 28548 --- [Ai] [main] com.springboot.DemoApplication           : My regno is 45510
-2026-03-25T14:04:36.336+05:30  INFO 28548 --- [Ai] [main] com.springboot.DemoApplication           : My program is Ended.....

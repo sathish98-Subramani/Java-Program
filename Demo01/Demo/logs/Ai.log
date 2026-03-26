@@ -1,6 +1,0 @@
-2026-03-25T11:53:53.136+05:30  INFO 16072 --- [Ai] [main] com.springboot.DemoApplication           : My program is Ended.....
-2026-03-25T12:08:36.147+05:30  INFO 18696 --- [Ai] [main] com.springboot.DemoApplication           : Starting DemoApplication using Java 24.0.1 with PID 18696 (C:\Users\msult\OneDrive\Documents\SpringTemplate-master\Demo (1)\Demo\target\classes started by msult in C:\Users\msult\OneDrive\Documents\SpringTemplate-master\Demo (1)\Demo)
-2026-03-25T12:08:36.153+05:30  INFO 18696 --- [Ai] [main] com.springboot.DemoApplication           : No active profile set, falling back to 1 default profile: "default"
-2026-03-25T12:08:37.018+05:30  INFO 18696 --- [Ai] [main] com.springboot.DemoApplication           : Started DemoApplication in 1.763 seconds (process running for 2.508)
-2026-03-25T12:08:37.023+05:30  INFO 18696 --- [Ai] [main] com.springboot.DemoApplication           : My program is Started......
-2026-03-25T12:08:37.025+05:30  INFO 18696 --- [Ai] [main] com.springboot.DemoApplication           : Enter Student Regno

@@ -1,8 +1,0 @@
-2026-03-25T11:52:40.313+05:30  INFO 10360 --- [Ai] [main] com.springboot.DemoApplication           : Starting DemoApplication using Java 24.0.1 with PID 10360 (C:\Users\msult\OneDrive\Documents\SpringTemplate-master\Demo (1)\Demo\target\classes started by msult in C:\Users\msult\OneDrive\Documents\SpringTemplate-master\Demo (1)\Demo)
-2026-03-25T11:52:40.325+05:30  INFO 10360 --- [Ai] [main] com.springboot.DemoApplication           : No active profile set, falling back to 1 default profile: "default"
-2026-03-25T11:52:41.093+05:30  INFO 10360 --- [Ai] [main] com.springboot.DemoApplication           : Started DemoApplication in 1.601 seconds (process running for 2.309)
-2026-03-25T11:52:41.100+05:30  INFO 10360 --- [Ai] [main] com.springboot.DemoApplication           : My program is Started......
-2026-03-25T11:52:41.152+05:30  INFO 10360 --- [Ai] [main] com.springboot.DemoApplication           : Enter Student Regno
-2026-03-25T11:52:46.685+05:30  INFO 10360 --- [Ai] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
-
-Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
