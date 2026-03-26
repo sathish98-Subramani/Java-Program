@@ -1,0 +1,72 @@
+2026-03-25T19:50:27.635+05:30  INFO 24880 --- [Ai] [main] com.jdbc.DemoApplication                 : Starting DemoApplication using Java 24.0.1 with PID 24880 (C:\Users\msult\OneDrive\Documents\SpringTemplate-master\student-app\target\classes started by msult in C:\Users\msult\OneDrive\Documents\SpringTemplate-master\student-app)
+2026-03-25T19:50:27.644+05:30  INFO 24880 --- [Ai] [main] com.jdbc.DemoApplication                 : No active profile set, falling back to 1 default profile: "default"
+2026-03-25T19:50:29.311+05:30  INFO 24880 --- [Ai] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-03-25T19:50:29.398+05:30  INFO 24880 --- [Ai] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 33 ms. Found 0 JPA repository interfaces.
+2026-03-25T19:50:30.331+05:30  INFO 24880 --- [Ai] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-03-25T19:50:30.372+05:30  INFO 24880 --- [Ai] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-25T19:50:30.373+05:30  INFO 24880 --- [Ai] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-25T19:50:30.449+05:30  INFO 24880 --- [Ai] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 2709 ms
+2026-03-25T19:50:30.858+05:30  INFO 24880 --- [Ai] [main] org.hibernate.orm.jpa                    : HHH008540: Processing PersistenceUnitInfo [name: default]
+2026-03-25T19:50:30.949+05:30  INFO 24880 --- [Ai] [main] org.hibernate.orm.core                   : HHH000001: Hibernate ORM core version 7.2.7.Final
+2026-03-25T19:50:31.654+05:30  INFO 24880 --- [Ai] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-03-25T19:50:31.722+05:30  INFO 24880 --- [Ai] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-03-25T19:50:32.237+05:30  INFO 24880 --- [Ai] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@67e4928c
+2026-03-25T19:50:32.241+05:30  INFO 24880 --- [Ai] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-03-25T19:50:32.376+05:30  INFO 24880 --- [Ai] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [jdbc:mysql://localhost:3306/student_db]
+	Database driver: MySQL Connector/J
+	Database dialect: MySQLDialect
+	Database version: 8.0.44
+	Default catalog/schema: student_db/undefined
+	Autocommit mode: undefined/unknown
+	Isolation level: REPEATABLE_READ [default REPEATABLE_READ]
+	JDBC fetch size: none
+	Pool: DataSourceConnectionProvider
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2026-03-25T19:50:33.437+05:30  INFO 24880 --- [Ai] [main] org.hibernate.orm.core                   : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-03-25T19:50:33.445+05:30  INFO 24880 --- [Ai] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-03-25T19:50:33.615+05:30  WARN 24880 --- [Ai] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-03-25T19:50:34.212+05:30  INFO 24880 --- [Ai] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-03-25T19:50:34.222+05:30  INFO 24880 --- [Ai] [main] com.jdbc.DemoApplication                 : Started DemoApplication in 7.746 seconds (process running for 8.664)
+2026-03-25T19:50:51.709+05:30  INFO 24880 --- [Ai] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-25T19:50:51.730+05:30  INFO 24880 --- [Ai] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-25T19:50:51.735+05:30  INFO 24880 --- [Ai] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-03-25T19:50:51.740+05:30  INFO 24880 --- [Ai] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-03-25T19:50:51.756+05:30  INFO 24880 --- [Ai] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-03-25T20:22:25.746+05:30  INFO 15940 --- [Ai] [main] com.jdbc.DemoApplication                 : Starting DemoApplication using Java 24.0.1 with PID 15940 (C:\Users\msult\OneDrive\Documents\SpringTemplate-master\student-app\target\classes started by msult in C:\Users\msult\OneDrive\Documents\SpringTemplate-master\student-app)
+2026-03-25T20:22:25.756+05:30  INFO 15940 --- [Ai] [main] com.jdbc.DemoApplication                 : No active profile set, falling back to 1 default profile: "default"
+2026-03-25T20:22:26.989+05:30  INFO 15940 --- [Ai] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-03-25T20:22:27.035+05:30  INFO 15940 --- [Ai] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 27 ms. Found 0 JPA repository interfaces.
+2026-03-25T20:22:27.828+05:30  INFO 15940 --- [Ai] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-03-25T20:22:27.851+05:30  INFO 15940 --- [Ai] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-03-25T20:22:27.851+05:30  INFO 15940 --- [Ai] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.18]
+2026-03-25T20:22:27.924+05:30  INFO 15940 --- [Ai] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 2052 ms
+2026-03-25T20:22:28.254+05:30  INFO 15940 --- [Ai] [main] org.hibernate.orm.jpa                    : HHH008540: Processing PersistenceUnitInfo [name: default]
+2026-03-25T20:22:28.317+05:30  INFO 15940 --- [Ai] [main] org.hibernate.orm.core                   : HHH000001: Hibernate ORM core version 7.2.7.Final
+2026-03-25T20:22:29.043+05:30  INFO 15940 --- [Ai] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-03-25T20:22:29.090+05:30  INFO 15940 --- [Ai] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-03-25T20:22:29.590+05:30  INFO 15940 --- [Ai] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@362be0cd
+2026-03-25T20:22:29.594+05:30  INFO 15940 --- [Ai] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-03-25T20:22:29.717+05:30  INFO 15940 --- [Ai] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [jdbc:mysql://localhost:3306/student_db]
+	Database driver: MySQL Connector/J
+	Database dialect: MySQLDialect
+	Database version: 8.0.44
+	Default catalog/schema: student_db/undefined
+	Autocommit mode: undefined/unknown
+	Isolation level: REPEATABLE_READ [default REPEATABLE_READ]
+	JDBC fetch size: none
+	Pool: DataSourceConnectionProvider
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2026-03-25T20:22:30.876+05:30  INFO 15940 --- [Ai] [main] org.hibernate.orm.core                   : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-03-25T20:22:30.884+05:30  INFO 15940 --- [Ai] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-03-25T20:22:31.057+05:30  WARN 15940 --- [Ai] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-03-25T20:22:31.546+05:30  INFO 15940 --- [Ai] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2026-03-25T20:22:31.558+05:30  INFO 15940 --- [Ai] [main] com.jdbc.DemoApplication                 : Started DemoApplication in 6.73 seconds (process running for 7.68)
+2026-03-25T20:23:49.687+05:30  INFO 15940 --- [Ai] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-25T20:23:49.699+05:30  INFO 15940 --- [Ai] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-03-25T20:23:49.703+05:30  INFO 15940 --- [Ai] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-03-25T20:23:49.709+05:30  INFO 15940 --- [Ai] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-03-25T20:23:49.720+05:30  INFO 15940 --- [Ai] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
